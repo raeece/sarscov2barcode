@@ -33,3 +33,9 @@ Match  ['|' '|' '|' '|' '|' '|' '|' '|' '|' '|' '|']
 Clade G['C' 'T' 'G' 'T' 'T' 'T' 'G' 'G' 'T' 'G' 'G']
 Clade G matches 100%
 ```
+
+## Citation
+
+Qingtian Guan, Mukhtar Sadykov, Raushan Nugmanova, Michael J. Carr, Stefan T. Arold,Arnab Pain.<br/>
+The genomic variation landscape of globally-circulating clades of SARS-CoV-2 defines a genetic barcoding scheme
+doi: https://doi.org/10.1101/2020.04.21.054221
