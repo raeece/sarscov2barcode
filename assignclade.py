@@ -75,24 +75,3 @@ barcode[10]=samplecode.get(2891,'G')
 
 match_barcode(barcode)
 
-
-#for p in positions:
-#    for s in range(0,len(samples)):
-#        if(calls[i,s,0]>0):
-#            r=ref[i]
-#            a=alt[i,calls[i,s,0]-1]
-#            lr=len(r)
-#            la=len(a)
-#            mtype='S'
-#            m=max(lr,la)-1
-#            if(lr>la):
-#                mtype='D'
-#            elif(lr<la):
-#                mtype='I'
-#            else:
-#                mtype='S'
-#                m=1
-#            print(chrom[i],p,p+m-1,samples[s],r,a,mtype,m)
-#    i=i+1
-#
-#
