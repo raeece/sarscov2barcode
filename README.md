@@ -36,6 +36,6 @@ Clade G matches 100%
 
 ## Citation
 
-Qingtian Guan, Mukhtar Sadykov, Raushan Nugmanova, Michael J. Carr, Stefan T. Arold,Arnab Pain.<br/>
+Qingtian Guan, Mukhtar Sadykov, Sara Mfarrej, Sharif Hala, Raeece Naeem,  Raushan Nugmanova, Awad Al-Omari, Samer Salih, Abbas Al Mutair,  Michael J. Carr, William W. Hall, Stefan T. Arold,Arnab Pain.<br/>
 The genomic variation landscape of globally-circulating clades of SARS-CoV-2 defines a genetic barcoding scheme
-doi: https://doi.org/10.1101/2020.04.21.054221
+doi: https://doi.org/10.1016/j.ijid.2020.08.052
